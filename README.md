@@ -31,21 +31,21 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 
 ## 🗂️ Contenidos del curso
 
-### 📍 Lección 1: **Saludos y presentaciones en noruego**
-- Presentación multimedia creada con [Reveal.js](https://revealjs.com/) para aprender saludos formales e informales.
+### 📍 [Lección 1: **Saludos y presentaciones en noruego**](00-leccion1/leccion1.md)
+- [Presentación multimedia](00-leccion1/presentacion/presentacion.html) creada con Reveal.js para aprender saludos formales e informales.
 - Vocabulario clave y frases básicas para presentarse y preguntar el nombre, nacionalidad y profesión.
+- Historia interactiva con **Ren'Py**, una simulación de conversación con personajes noruegos para afianzar el contenido de forma lúdica.
 
-### 📍 Lección 2: **El clima noruego. Conversaciones cotidianas**
-- Ejercicios interactivos y prácticos en formato PDF.
+### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion2.md)
 - Simulaciones de conversación sobre el clima, con vocabulario y estructuras frecuentes en Noruega.
-- Práctica auditiva y comprensión lectora.
+- [Ejercicios en formato PDF](01-leccion2/ejercicios-leccion2.pdf)
+  
 
-### 📍 Lección 3: **Gustos y preferencias. Conociendo a los noruegos**
+### 📍 [Lección 3: **Gustos y preferencias. Conociendo a los noruegos**](02-leccion3/leccion3.md)
 - Actividades de expresión oral y escrita en PDF.
 - Preguntas y respuestas sobre aficiones y hábitos culturales.
 - Introducción a elementos culturales básicos del estilo de vida noruego.
 - Historia interactiva con **Twine**, basada en situaciones reales para aplicar vocabulario y estructuras.
-- Historia interactiva con **Ren'Py**, una simulación de conversación con personajes noruegos para afianzar el contenido de forma lúdica.
 
 ---
 
