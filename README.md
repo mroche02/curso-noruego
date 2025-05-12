@@ -38,15 +38,14 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 
 ### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion2.md)
 - Simulaciones de conversación sobre el clima, con vocabulario y estructuras frecuentes en Noruega.
-- [Ejercicios en formato PDF](01-leccion2/ejercicios-leccion2.pdf)
-- [Ejercicios en PDF](https://mroche02.github.io/curso-noruego/01-leccion2/ejercicios-leccion2.pdf)
+- [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/01-leccion2/ejercicios-leccion2.pdf)
 
 
 ### 📍 [Lección 3: **Gustos y preferencias. Conociendo a los noruegos**](02-leccion3/leccion3.md)
 - Actividades de expresión oral y escrita en PDF.
 - Preguntas y respuestas sobre aficiones y hábitos culturales.
 - Introducción a elementos culturales básicos del estilo de vida noruego.
-- <a href="/curso-noruego/01-leccion2/ejercicios-leccion2.pdf" target="_blank">Ejercicios en formato PDF</a>
+- [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/02-leccion3/ejercicios-leccion3.pdf)
 
 ---
 
