@@ -32,7 +32,7 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 ## 🗂️ Contenidos del curso
 
 ### 📍 [Lección 1: **Saludos y presentaciones en noruego**](00-leccion1/leccion1.md)
-- Presentación multimedia creada con [Reveal.js](https://revealjs.com/) para aprender saludos formales e informales.
+- [Presentación multimedia](00-leccion1/presentacion/presentacion.html) creada con Reveal.js para aprender saludos formales e informales.
 - Vocabulario clave y frases básicas para presentarse y preguntar el nombre, nacionalidad y profesión.
 
 ### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion2.md)
