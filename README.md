@@ -45,7 +45,7 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 - Actividades de expresión oral y escrita en PDF.
 - Preguntas y respuestas sobre aficiones y hábitos culturales.
 - Introducción a elementos culturales básicos del estilo de vida noruego.
-- Historia interactiva con **Twine**, basada en situaciones reales para aplicar vocabulario y estructuras.
+- [Historia interactiva con **Twine**](Twine/NorwegianTwine.html)
 
 ---
 
