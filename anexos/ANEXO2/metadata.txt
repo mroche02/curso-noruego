@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: Breve introducción a la cultura noruega 
+- type: subtitle
+  text: Para estudiantes españoles
+creator:
+- role: author
+  text: María Roche García 
+rights: © 2025 María Roche Garcia, CC BY-NC
+ibooks:
+  version: 1.0.0
+---

@@ -1,0 +1,39 @@
+.reveal h1 {
+  text-transform: none !important;
+  font-size: 1.6em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.reveal h2 {
+  text-transform: none !important;
+  font-size: 1.4em;
+  font-weight: bold;
+  text-align: left;
+}
+
+.reveal h3 {
+  text-transform: none !important;
+  font-size: 1em;
+  font-weight: normal;
+  text-align: left;
+}
+
+.reveal p {
+  font-size: 0.85em;
+}
+
+.reveal ul, .reveal ol {
+  font-size: 0.85em;
+}
+
+.reveal table {
+  font-size: 0.75em;
+}
+
+.reveal .slides img {
+  max-width: 20%;
+  height: auto;
+  float: right;
+  margin-left: 15px;
+}

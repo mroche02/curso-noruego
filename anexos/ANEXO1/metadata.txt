@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: NORSK
+- type: subtitle
+  text: Glosario noruego-espanol
+creator:
+- role: author
+  text: María Roche García 
+rights: © 2025 María Roche Garcia, CC BY-NC
+ibooks:
+  version: 1.0.0
+---
