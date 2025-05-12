@@ -44,7 +44,7 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 - Actividades de expresión oral y escrita en PDF.
 - Preguntas y respuestas sobre aficiones y hábitos culturales.
 - Introducción a elementos culturales básicos del estilo de vida noruego.
-- <a href="/01-leccion2/ejercicios-leccion2.pdf" target="_blank">Ejercicios en formato PDF</a>
+- <a href="/curso-noruego/01-leccion2/ejercicios-leccion2.pdf" target="_blank">Ejercicios en formato PDF</a>
 
 ---
 
