@@ -37,9 +37,9 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 - Historia interactiva con **Ren'Py**, una simulación de conversación con personajes noruegos para afianzar el contenido de forma lúdica.
 
 ### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion2.md)
-- Ejercicios interactivos y prácticos en formato PDF.
 - Simulaciones de conversación sobre el clima, con vocabulario y estructuras frecuentes en Noruega.
-- Práctica auditiva y comprensión lectora.
+- [Ejercicios en formato PDF](01-leccion2/ejercicios-leccion2.pdf)
+  
 
 ### 📍 [Lección 3: **Gustos y preferencias. Conociendo a los noruegos**](02-leccion3/leccion3.md)
 - Actividades de expresión oral y escrita en PDF.
