@@ -38,7 +38,7 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 
 ### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion2.md)
 - Simulaciones de conversación sobre el clima, con vocabulario y estructuras frecuentes en Noruega.
-- [Ejercicios en formato PDF](01-leccion2/ejercicios-leccion2.pdf)
+- [Ejercicios en formato PDF](/curso-noruego/03-leccion2/ejercicios.pdf)
   
 
 ### 📍 [Lección 3: **Gustos y preferencias. Conociendo a los noruegos**](02-leccion3/leccion3.md)
