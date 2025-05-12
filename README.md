@@ -1,6 +1,6 @@
 # 🇳🇴 Noruego para principiantes
 
-**Autora:** María Roche García  
+**Autora:** María Roche  
 **Licencia:** [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
 
 ---
@@ -78,6 +78,6 @@ Este curso se distribuye bajo la licencia [Creative Commons Atribución-Comparti
 
 ## ✍️ Autora
 
-**María Roche García**
+**María Roche**
 
 ---
