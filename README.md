@@ -37,8 +37,7 @@ Esta lección contiene vocabulario (saludos y presentaciones), pronunciación (v
 **Objetivo de la lección:** Aprender a saludar, presentarte y despedirte en noruego, tanto en lenguaje como en comportamiento cultural, entendiendo las diferencias clave entre España y Noruega.
 
 - [Presentación multimedia](https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html) creada con Reveal.js para aprender y practicar saludos formales e informales.
-- Historia interactiva con **Ren'Py**, una simulación de conversación con personajes noruegos para afianzar el contenido de forma lúdica.
-
+  
 ### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion2.md)
 Esta lección contiene vocabulario (clima, estaciones y actividades relacionadas), pronunciación, gramática básica (uso de *Det er* para describir el clima y formación de frases con verbos climáticos) y contexto cultural (hábitos noruegos respecto al clima y fenómenos naturales).
 
@@ -56,6 +55,26 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 - [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/02-leccion3/ejercicios-leccion3.pdf)
 
 ---
+## 📍 Recurso complementario:
+
+### Historia interactiva: Conversaciones en Noruego (Ren'Py)
+
+Para vivir una experiencia completa y lúdica con la historia interactiva creada para esta lección, descarga el juego Ren'Py en tu dispositivo:
+
+- [Descargar versión Windows](enlace-a-tu-zip-windows.zip)  
+- [Descargar versión macOS](enlace-a-tu-zip-macos.zip)  
+- [Descargar versión Linux](enlace-a-tu-zip-linux.zip)  
+
+**Instrucciones:**  
+1. Descarga el archivo correspondiente a tu sistema operativo.  
+2. Descomprime el archivo en una carpeta.  
+3. Abre el archivo `renpy.exe` (Windows) o el ejecutable correspondiente para tu sistema.  
+4. Disfruta la historia y practica tu noruego de forma interactiva.
+
+---
+
+Si tienes alguna duda sobre cómo ejecutar el juego, contáctame o consulta la sección de ayuda.
+
 
 ## 📎 Anexos
 
