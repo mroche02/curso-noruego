@@ -51,8 +51,8 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 
 **Objetivo de la lección:** Comprender y expresar gustos y preferencias personales en noruego, al mismo tiempo que se identifican costumbres y aficiones propias de la cultura noruega para facilitar la interacción social y el conocimiento del estilo de vida local.
 
-- Introducción a elementos culturales básicos del estilo de vida noruego.
 - [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/02-leccion3/ejercicios-leccion3.pdf)
+- [Historia interactiva con Twine para practicar la lección](https://mroche02.github.io/curso-noruego/Twine/NorwegianTwine.html)
 
 ---
 ## 📍 Recurso complementario:
@@ -76,8 +76,8 @@ Si tienes alguna duda sobre cómo ejecutar el juego, contáctame o consulta la s
 
 ## 📎 Anexos
 
-- 📘 **Glosario noruego-español** (_formato EPUB_): descarga aquí el vocabulario clave del curso organizado temáticamente.
-- 🇳🇴 **Breve introducción a la cultura noruega** (_formato EPUB_): descarga aquí la lectura con ejercicios de comprensión lectora para conocer mejor el país y su gente.
+- 📘 [**Glosario noruego-español**](https://mroche02.github.io/curso-noruego/anexos/ANEXO1/dist/glosario1.epub) (_formato EPUB_): descarga aquí el vocabulario clave del curso organizado temáticamente.
+- 🇳🇴 [**Breve introducción a la cultura noruega**](https://mroche02.github.io/curso-noruego/anexos/ANEXO2/dist/anexo2.epub) (_formato EPUB_): descarga aquí la lectura con ejercicios de comprensión lectora para conocer mejor el país y su gente.
 
 ---
 
