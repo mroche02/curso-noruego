@@ -32,6 +32,7 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 ## 🗂️ Contenidos del curso
 
 ### 📍 [Lección 1: **Saludos y presentaciones en noruego**](00-leccion1/leccion1.md)
+**Objetivo de la lección:** Aprender a saludar, presentarte y despedirte en noruego, tanto en lenguaje como en comportamiento cultural, entendiendo las diferencias clave entre España y Noruega.
 - [Presentación multimedia](https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html) creada con Reveal.js para aprender saludos formales e informales.
 - Vocabulario clave y frases básicas para presentarse y preguntar el nombre, nacionalidad y profesión.
 - Historia interactiva con **Ren'Py**, una simulación de conversación con personajes noruegos para afianzar el contenido de forma lúdica.
