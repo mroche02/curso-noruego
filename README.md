@@ -33,7 +33,6 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 
 ### 📍 [Lección 1: **Saludos y presentaciones en noruego**](00-leccion1/leccion1.md)
 - [Presentación multimedia](https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html) creada con Reveal.js para aprender saludos formales e informales.
-- <a href="https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html" onclick="event.stopPropagation();" target="_blank">Ver presentación Reveal.js</a>
 - Vocabulario clave y frases básicas para presentarse y preguntar el nombre, nacionalidad y profesión.
 - Historia interactiva con **Ren'Py**, una simulación de conversación con personajes noruegos para afianzar el contenido de forma lúdica.
 
