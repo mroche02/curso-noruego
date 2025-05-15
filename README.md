@@ -61,9 +61,7 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 
 Para vivir una experiencia completa y lúdica con la historia interactiva creada para esta lección, descarga el juego Ren'Py en tu dispositivo:
 
-- [Descargar versión Windows](enlace-a-tu-zip-windows.zip)  
-- [Descargar versión macOS](enlace-a-tu-zip-macos.zip)  
-- [Descargar versión Linux](enlace-a-tu-zip-linux.zip)  
+- [Descargar Ren'Py](Renpy.zip)
 
 **Instrucciones:**  
 1. Descarga el archivo correspondiente a tu sistema operativo.  
