@@ -35,6 +35,7 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 Esta lección contiene vocabulario (saludos y presentaciones), pronunciación (vocales y consonantes noruegas), gramática básica (orden de la frase, formación de preguntas y pronombres personales) y contexto cultural (normas sociales en saludos).
 
 **Objetivo de la lección:** Aprender a saludar, presentarte y despedirte en noruego, tanto en lenguaje como en comportamiento cultural, entendiendo las diferencias clave entre España y Noruega.
+
 - [Presentación multimedia](https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html) creada con Reveal.js para aprender y practicar saludos formales e informales.
 - Historia interactiva con **Ren'Py**, una simulación de conversación con personajes noruegos para afianzar el contenido de forma lúdica.
 
@@ -42,6 +43,7 @@ Esta lección contiene vocabulario (saludos y presentaciones), pronunciación (v
 Esta lección contiene vocabulario (clima, estaciones y actividades relacionadas), pronunciación, gramática básica (uso de *Det er* para describir el clima y formación de frases con verbos climáticos) y contexto cultural (hábitos noruegos respecto al clima y fenómenos naturales).
 
 **Objetivo de la lección:** Comprender y utilizar expresiones básicas relacionadas con el clima en noruego, incluyendo vocabulario, estructuras gramaticales y aspectos culturales, para desenvolverse en conversaciones cotidianas.
+
 - [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/01-leccion2/ejercicios-leccion2.pdf)
 
 
@@ -49,6 +51,7 @@ Esta lección contiene vocabulario (clima, estaciones y actividades relacionadas
 Esta lección contiene vocabulario y frases para expresar gustos, disgustos y preferencias en noruego, gramática básica con *Jeg liker å* + verbo, contexto cultural sobre aficiones noruegas y tradiciones del tiempo libre y preguntas para socializar.
 
 **Objetivo de la lección:** Comprender y expresar gustos y preferencias personales en noruego, al mismo tiempo que se identifican costumbres y aficiones propias de la cultura noruega para facilitar la interacción social y el conocimiento del estilo de vida local.
+
 - Introducción a elementos culturales básicos del estilo de vida noruego.
 - [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/02-leccion3/ejercicios-leccion3.pdf)
 
