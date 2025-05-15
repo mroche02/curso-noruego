@@ -37,7 +37,7 @@ Esta lección contiene vocabulario (saludos y presentaciones), pronunciación (v
 **Objetivo de la lección:** Aprender a saludar, presentarte y despedirte en noruego, tanto en lenguaje como en comportamiento cultural, entendiendo las diferencias clave entre España y Noruega.
 
 - [Presentación multimedia](https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html) creada con Reveal.js para aprender y practicar saludos formales e informales.
-  
+
 ### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion2.md)
 Esta lección contiene vocabulario (clima, estaciones y actividades relacionadas), pronunciación, gramática básica (uso de *Det er* para describir el clima y formación de frases con verbos climáticos) y contexto cultural (hábitos noruegos respecto al clima y fenómenos naturales).
 
