@@ -38,7 +38,7 @@ Esta lección contiene vocabulario (saludos y presentaciones), pronunciación (v
 
 - [Presentación multimedia](https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html) creada con Reveal.js para aprender y practicar saludos formales e informales.
 
-### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion.md)
+### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion2.md)
 Esta lección contiene vocabulario (clima, estaciones y actividades relacionadas), pronunciación, gramática básica (uso de *Det er* para describir el clima y formación de frases con verbos climáticos) y contexto cultural (hábitos noruegos respecto al clima y fenómenos naturales).
 
 **Objetivo de la lección:** Comprender y utilizar expresiones básicas relacionadas con el clima en noruego, incluyendo vocabulario, estructuras gramaticales y aspectos culturales, para desenvolverse en conversaciones cotidianas.
