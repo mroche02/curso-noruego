@@ -43,7 +43,7 @@ Esta lección contiene vocabulario (clima, estaciones y actividades relacionadas
 **Objetivo de la lección:** Comprender y utilizar expresiones básicas relacionadas con el clima en noruego, incluyendo vocabulario, estructuras gramaticales y aspectos culturales, para desenvolverse en conversaciones cotidianas.
 
 - [Accede al contenido de la Lección 2](00-leccion1/leccion1.md)
-- [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/01-leccion2/ejercicios-leccion2.pdf)
+- [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/01-leccion2/ejercicios-leccion2.pdf) elaborados con Markdown y convertidos con Pandoc.
 
 
 ### 📍 [Lección 3: **Gustos y preferencias. Conociendo a los noruegos**](02-leccion3/leccion3.md)
@@ -52,10 +52,11 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 **Objetivo de la lección:** Comprender y expresar gustos y preferencias personales en noruego, al mismo tiempo que se identifican costumbres y aficiones propias de la cultura noruega para facilitar la interacción social y el conocimiento del estilo de vida local.
 
 - [Accede al contenido de la Lección 3](00-leccion1/leccion1.md)
-- [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/02-leccion3/ejercicios-leccion3.pdf)
+- [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/02-leccion3/ejercicios-leccion3.pdf) elaborados con Markdown y convertidos con Pandoc.
 - [Historia interactiva con Twine para practicar la lección](https://mroche02.github.io/curso-noruego/Twine/NorwegianTwine.html)
 
 ---
+
 ## 📎 Anexos
 
 - 📘 [**Glosario noruego-español**](https://mroche02.github.io/curso-noruego/anexos/ANEXO1/dist/glosario1.epub) (_formato EPUB_): descarga aquí el vocabulario clave del curso organizado temáticamente.
@@ -63,21 +64,23 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 
 ---
 
-## 📍 Recurso complementario:
+## 📍 Recursos complementarios:
+
+### Historia interativa: Isaac i Norge (Twine)
+
+Practica las lecciones de forma dinámica y divertida con esta [Historia interactiva en Twine](https://mroche02.github.io/curso-noruego/Twine/NorwegianTwine.html). Haz clic en el enlace y sumérgete en la historia para mejorar tu aprendizaje.
 
 ### Historia interactiva: Conversaciones en Noruego (Ren'Py)
 
 Para vivir una experiencia completa y lúdica con la historia interactiva creada para esta lección, descarga el juego Ren'Py en tu dispositivo:
 
-- [Descargar Ren'Py](Renpy.zip)
+- [Descargar Ren'Py](/Renpy.zip)
 
 **Instrucciones:**  
 1. Descarga el archivo correspondiente a tu sistema operativo.  
 2. Descomprime el archivo en una carpeta.  
 3. Abre el archivo `renpy.exe` (Windows) o el ejecutable correspondiente para tu sistema.  
 4. Disfruta la historia y practica tu noruego de forma interactiva.
-
----
 
 ---
 
