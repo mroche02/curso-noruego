@@ -28,6 +28,11 @@ Al finalizar este curso, los estudiantes serán capaces de:
 Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendizaje del idioma noruego, sin necesidad de conocimientos previos.
 
 ---
+## 🕒 Duración del curso
+
+180 minutos, dependiendo del ritmo del estudiante.
+
+---
 
 ## 🗂️ Contenidos del curso
 
@@ -55,6 +60,13 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 - [Historia interactiva con Twine para practicar la lección](https://mroche02.github.io/curso-noruego/Twine/NorwegianTwine.html)
 
 ---
+## 📎 Anexos
+
+- 📘 [**Glosario noruego-español**](https://mroche02.github.io/curso-noruego/anexos/ANEXO1/dist/glosario1.epub) (_formato EPUB_): descarga aquí el vocabulario clave del curso organizado temáticamente.
+- 🇳🇴 [**Breve introducción a la cultura noruega**](https://mroche02.github.io/curso-noruego/anexos/ANEXO2/dist/anexo2.epub) (_formato EPUB_): descarga aquí la lectura con ejercicios de comprensión lectora para conocer mejor el país y su gente.
+
+---
+
 ## 📍 Recurso complementario:
 
 ### Historia interactiva: Conversaciones en Noruego (Ren'Py)
@@ -70,14 +82,6 @@ Para vivir una experiencia completa y lúdica con la historia interactiva creada
 4. Disfruta la historia y practica tu noruego de forma interactiva.
 
 ---
-
-Si tienes alguna duda sobre cómo ejecutar el juego, contáctame o consulta la sección de ayuda.
-
-
-## 📎 Anexos
-
-- 📘 [**Glosario noruego-español**](https://mroche02.github.io/curso-noruego/anexos/ANEXO1/dist/glosario1.epub) (_formato EPUB_): descarga aquí el vocabulario clave del curso organizado temáticamente.
-- 🇳🇴 [**Breve introducción a la cultura noruega**](https://mroche02.github.io/curso-noruego/anexos/ANEXO2/dist/anexo2.epub) (_formato EPUB_): descarga aquí la lectura con ejercicios de comprensión lectora para conocer mejor el país y su gente.
 
 ---
 
