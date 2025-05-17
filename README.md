@@ -41,6 +41,7 @@ Esta lección contiene vocabulario (saludos y presentaciones), pronunciación (v
 
 **Objetivo de la lección:** Aprender a saludar, presentarte y despedirte en noruego, tanto en lenguaje como en comportamiento cultural, entendiendo las diferencias clave entre España y Noruega.
 
+- [Accede al contenido de la Lección 1](00-leccion1/leccion1.md)
 - [Presentación multimedia](https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html) creada con Reveal.js para aprender y practicar saludos formales e informales.
 
 ### 📍 [Lección 2: **El clima noruego. Conversaciones cotidianas**](01-leccion2/leccion2.md) 
@@ -48,6 +49,7 @@ Esta lección contiene vocabulario (clima, estaciones y actividades relacionadas
 
 **Objetivo de la lección:** Comprender y utilizar expresiones básicas relacionadas con el clima en noruego, incluyendo vocabulario, estructuras gramaticales y aspectos culturales, para desenvolverse en conversaciones cotidianas.
 
+- [Accede al contenido de la Lección 2](00-leccion1/leccion1.md)
 - [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/01-leccion2/ejercicios-leccion2.pdf)
 
 
@@ -56,6 +58,7 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 
 **Objetivo de la lección:** Comprender y expresar gustos y preferencias personales en noruego, al mismo tiempo que se identifican costumbres y aficiones propias de la cultura noruega para facilitar la interacción social y el conocimiento del estilo de vida local.
 
+- [Accede al contenido de la Lección 3](00-leccion1/leccion1.md)
 - [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/02-leccion3/ejercicios-leccion3.pdf)
 - [Historia interactiva con Twine para practicar la lección](https://mroche02.github.io/curso-noruego/Twine/NorwegianTwine.html)
 
