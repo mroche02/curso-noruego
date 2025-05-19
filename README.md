@@ -29,6 +29,8 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 
 ## 🗂️ Contenidos del curso
 
+### [Presentación del curso **Noruego para hispanohablantes**](presentacion-curso/inicio-curso.html)
+
 ### 📍 [Lección 1: **Saludos y presentaciones en noruego**](00-leccion1/leccion1.md)
 Esta lección contiene vocabulario (saludos y presentaciones), pronunciación (vocales y consonantes noruegas), gramática básica (orden de la frase, formación de preguntas y pronombres personales) y contexto cultural (normas sociales en saludos).
 
