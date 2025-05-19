@@ -94,7 +94,7 @@ El noruego tiene sonidos que pueden resultar difíciles para hispanohablantes:
 
 ***
 
-<a href="#/">← Volver al inicio</a> 
+<a href="#/">← Volver al inicio</a>
 <br>
 <a href="#/01-leccion2/leccion2">→ Ir a la Lección 2</a>
 
