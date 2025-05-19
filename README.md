@@ -98,12 +98,6 @@ Se recomienda seguir las lecciones en el orden propuesto para una progresión ad
 
 ---
 
-## 📄 Licencia
-
-Este curso se distribuye bajo la licencia [Creative Commons Atribución-CompartirIgual (CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/deed.es), lo que permite su uso y adaptación, siempre que se otorgue el crédito correspondiente y se comparta bajo la misma licencia.
-
----
-
 ## ✍️ Autora
 
 **María Roche**
