@@ -78,4 +78,6 @@ Con estas herramientas básicas, podrá comenzar a integrarse en la vida cotidia
 ***
 
 **¡Felicidades!**  
-¡Has completado la lección sobre los gustos y preferencias en noruego! Realiza ahora los ejercicios para mejorar tu comprensión del idioma.
+¡Has completado la lección sobre los gustos y preferencias en noruego! Realiza ahora los ejercicios para mejorar tu comprensión del idioma [Haz clic aquí para visualizarlos](../02-leccion3/ejercicios-leccion3.pdf)
+- [Haz clic aquí para volver a la Lección 2](../01-leccion2/leccion2.md)
+- [Haz clic aquí para volver al inicio del curso](https://mroche02.github.io/curso-noruego/)
