@@ -51,7 +51,7 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 
 **Objetivo de la lección:** Comprender y expresar gustos y preferencias personales en noruego, al mismo tiempo que se identifican costumbres y aficiones propias de la cultura noruega para facilitar la interacción social y el conocimiento del estilo de vida local.
 
-- [Accede al contenido de la Lección 3](00-leccion1/leccion1.md)
+- [Accede al contenido de la Lección 3](02-leccion3/leccion3.md)
 - [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/02-leccion3/ejercicios-leccion3.pdf) elaborados con Markdown y convertidos con Pandoc.
 ---
 
