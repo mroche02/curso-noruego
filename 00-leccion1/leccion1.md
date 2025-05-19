@@ -1,5 +1,7 @@
 # Lección 1: Saludos y presentaciones en noruego
 
+[Antes de comenzar con la lección, haz clic aquí para acceder a la presentación inicial de la Lección 1](https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html)
+
 ## Contexto cultural
 En Noruega, los saludos suelen ser breves pero cálidos. El contacto visual es importante, aunque el espacio personal se respeta más que en los países mediterráneos. A diferencia de España, los noruegos rara vez se besan o abrazan al saludarse, especialmente al conocer a alguien nuevo.
 
@@ -90,6 +92,5 @@ El noruego tiene sonidos que pueden resultar difíciles para hispanohablantes:
 **¡Felicidades!**  
 ¡Has completado la lección 1 sobre los saludos en noruego! 
 
-- [Haz clic aquí para acceder a la presentación multimedia de la lección 1](https://mroche02.github.io/curso-noruego/00-leccion1/presentacion/presentacion.html)
-- [Haz clic aquí para pasar a la lección 2](../01-leccion2/leccion2.md)
+- [Haz clic aquí para pasar a la Lección 2](../01-leccion2/leccion2.md)
 - [Haz clic aquí para volver al inicio del curso](https://mroche02.github.io/curso-noruego/)
