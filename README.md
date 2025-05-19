@@ -74,7 +74,7 @@ Practica las lecciones de forma dinámica y divertida con esta [Historia interac
 
 Para vivir una experiencia completa y lúdica con la historia interactiva creada para esta lección, descarga el juego Ren'Py en tu dispositivo:
 
-- [Descargar Ren'Py](/Renpy.zip)
+- [Descargar Historia de Ren'Py](https://mroche02.github.io/curso-noruego/Renpy.zip)
 
 **Instrucciones:**  
 1. Descarga el archivo correspondiente a tu sistema operativo.  
