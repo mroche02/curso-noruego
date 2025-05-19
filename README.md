@@ -53,8 +53,6 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 
 - [Accede al contenido de la Lección 3](00-leccion1/leccion1.md)
 - [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/02-leccion3/ejercicios-leccion3.pdf) elaborados con Markdown y convertidos con Pandoc.
-- [Historia interactiva con Twine para practicar la lección](https://mroche02.github.io/curso-noruego/Twine/NorwegianTwine.html)
-
 ---
 
 ## 📎 Anexos
@@ -69,18 +67,6 @@ Esta lección contiene vocabulario y frases para expresar gustos, disgustos y pr
 ### Historia interativa: Isaac i Norge (Twine)
 
 Practica las lecciones de forma dinámica y divertida con esta [Historia interactiva en Twine](https://mroche02.github.io/curso-noruego/Twine/NorwegianTwine.html). Haz clic en el enlace y sumérgete en la historia para mejorar tu aprendizaje.
-
-### Historia interactiva: Conversaciones en Noruego (Ren'Py)
-
-Para vivir una experiencia completa y lúdica con la historia interactiva creada para esta lección, descarga el juego Ren'Py en tu dispositivo:
-
-- [Descargar Historia de Ren'Py](https://mroche02.github.io/curso-noruego/Renpy)
-
-**Instrucciones:**  
-1. Descarga el archivo correspondiente a tu sistema operativo.  
-2. Descomprime el archivo en una carpeta.  
-3. Abre el archivo `renpy.exe` (Windows) o el ejecutable correspondiente para tu sistema.  
-4. Disfruta la historia y practica tu noruego de forma interactiva.
 
 ---
 
