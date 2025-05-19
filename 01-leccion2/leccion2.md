@@ -76,5 +76,6 @@ Det blir varmere i morgen.  →  Hará más calor mañana.
 
 ***
 
-⬅️ [« Volver a la Lección 1](#/00-leccion1/leccion1)  
-➡️ [Ir a la Lección 3 »](#/02-leccion3/leccion3)
+<a href="#/00-leccion1/leccion1">← Volver a la Lección 1</a>  
+<a href="#/02-leccion3/leccion3">→ Ir a la Lección 3</a>
+
