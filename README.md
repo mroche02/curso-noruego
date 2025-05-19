@@ -42,7 +42,7 @@ Esta lección contiene vocabulario (clima, estaciones y actividades relacionadas
 
 **Objetivo de la lección:** Comprender y utilizar expresiones básicas relacionadas con el clima en noruego, incluyendo vocabulario, estructuras gramaticales y aspectos culturales, para desenvolverse en conversaciones cotidianas.
 
-- [Accede al contenido de la Lección 2](00-leccion1/leccion1.md)
+- [Accede al contenido de la Lección 2](01-leccion2/leccion2.md)
 - [Ejercicios en formato PDF](https://mroche02.github.io/curso-noruego/01-leccion2/ejercicios-leccion2.pdf) elaborados con Markdown y convertidos con Pandoc.
 
 
