@@ -2,6 +2,9 @@
 
 Este curso está diseñado para hispanohablantes sin conocimientos previos de noruego. Alineado con el nivel A1 del Marco Común Europeo de Referencia para las Lenguas (MCER), el objetivo es proporcionar las herramientas básicas para comprender y utilizar expresiones cotidianas y frases sencillas destinadas a satisfacer necesidades de tipo inmediato. Los estudiantes aprenderán a presentarse, saludar y mantener conversaciones básicas en situaciones comunes.
 
+## Accede a la presentación del curso [**Noruego para hispanohablantes**](presentacion-curso/inicio-curso.html)
+
+
 ---
 
 ## 🎯 Objetivos del curso
@@ -28,8 +31,6 @@ Este curso está dirigido a hispanohablantes que desean iniciarse en el aprendiz
 ---
 
 ## 🗂️ Contenidos del curso
-
-### [Presentación del curso **Noruego para hispanohablantes**](presentacion-curso/inicio-curso.html)
 
 ### 📍 [Lección 1: **Saludos y presentaciones en noruego**](00-leccion1/leccion1.md)
 Esta lección contiene vocabulario (saludos y presentaciones), pronunciación (vocales y consonantes noruegas), gramática básica (orden de la frase, formación de preguntas y pronombres personales) y contexto cultural (normas sociales en saludos).
