@@ -75,7 +75,9 @@ Det blir varmere i morgen.  →  Hará más calor mañana.
 ¡Has completado la lección sobre el clima noruego! Realiza ahora los ejercicios en PDF para mejorar tu comprensión del idioma. [Haz clic aquí para visualizarlos](../01-leccion2/ejercicios-leccion2.pdf)
 
 ***
-
-<a href="#/00-leccion1/leccion1">← Volver a la Lección 1</a>  
+<a href="#/">← Volver al inicio</a> 
+<br>
+<a href="#/00-leccion1/leccion1">← Volver a la Lección 1</a>
+<br>
 <a href="#/02-leccion3/leccion3">→ Ir a la Lección 3</a>
 
