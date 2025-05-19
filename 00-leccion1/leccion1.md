@@ -92,4 +92,6 @@ El noruego tiene sonidos que pueden resultar difíciles para hispanohablantes:
 **¡Felicidades!**  
 ¡Has completado la lección 1 sobre los saludos en noruego! 
 
-- [Ir a la Lección 2](#/01-leccion2/leccion2)
+---
+
+➡️ [Ir a la Lección 2 »](#/01-leccion2/leccion2)
