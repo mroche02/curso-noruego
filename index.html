@@ -7,7 +7,19 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
 </head>
 <body>
-  <div id="app">Cargando...</div>
+  <div id="app">Cargando el curso de noruego...</div>
+
+  <!-- Configuración Docsify -->
+  <script>
+    window.$docsify = {
+      loadSidebar: true,
+      relativePath: true,
+      alias: {
+        '/': '/README.md'
+      }
+    };
+  </script>
+
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
