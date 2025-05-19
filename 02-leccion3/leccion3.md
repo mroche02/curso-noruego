@@ -82,5 +82,5 @@ Con estas herramientas básicas, podrá comenzar a integrarse en la vida cotidia
 
 ***
 
-⬅️ [« Volver a la Lección 2](#/01-leccion2/leccion2)
+<a href="#/01-leccion2/leccion2">← Volver a la Lección 2</a>
 
